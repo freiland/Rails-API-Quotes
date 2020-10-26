@@ -11,7 +11,7 @@ _This application builds out a simple API from scratch using the Rails framework
 ## Setup/Installation Requirements
 
 #### Install Rails
-* Download Ruby [here](https://www.learnhowtoprogram.com/ruby-and-rails/getting-started-with-ruby/ruby-installation-and-setup) for setting up Ruby.
+* Download Ruby [here](https://www.learnhowtoprogram.com/ruby-and-rails/getting-started-with-ruby/ruby-installation-and-setup).
 * Run the command `gem install rails -v 5.2.0` to install Rails onto your computer. 
 
 #### Clone Repo and Install Bundler
